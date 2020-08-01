@@ -16,7 +16,7 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
+author = "fancynations"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 contact_form_action = "#"
@@ -27,7 +27,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = ""
 preloader = true
 search = false
 [params.instafeed]
